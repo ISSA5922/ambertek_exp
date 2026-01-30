@@ -11,12 +11,13 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-ambertek-export-dubai-tanzania-2024-secret-key'
+SECRET_KEY =os.environ.get("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get("DEBUG", "False").lower() == "true"
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0']
+ALLOWED_HOSTS = ["ambertek-exp-4.onrender.com", "*"]
+
 
 # Application definition
 INSTALLED_APPS = [
@@ -80,7 +81,8 @@ DATABASES = {
         'PORT': '5432',
     }
 }
-DATABASES['default']=dj_database_url.parse("postgresql://postgess:9pw2Jgd61QDSjLkZgvyTUKPjr2SMBEZH@dpg-d5lrhjcoud1c738v15r0-a.oregon-postgres.render.com/ambertek_export")
+dj_database_url=os.environ.get("DATABASE_URL")
+DATABASES['default']=dj_database_url.parse(database_url)
 
 # Password validation
 AUTH_PASSWORD_VALIDATORS = [
@@ -167,7 +169,8 @@ X_FRAME_OPTIONS = 'DENY'
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 # REAL GMAIL CONFIGURATION
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+
+EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
@@ -183,9 +186,9 @@ SUPPORT_EMAIL = 'support@ambertek.com'  # Customer support email (can be differe
 ADMIN_EMAIL = 'issaambari09@gmail.com'  # Admin email
 
 # Admin users who receive error emails
-ADMINS = [
-    ('Ambertek Admin', 'issaambari09@gmail.com'),
-]
+ADMINS = []
+    
+
 
 # Managers (receive broken link notifications)
 MANAGERS = ADMINS
