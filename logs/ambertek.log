@@ -1,0 +1,1374 @@
+INFO 2025-12-07 10:26:02,459 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 10:26:10,712 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 10:35:00,397 autoreload D:\ambertek_export\ambertek_export\ambertek\settings.py changed, reloading.
+INFO 2025-12-07 10:35:02,027 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 10:36:29,365 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 10:37:36,101 autoreload D:\ambertek_export\ambertek_export\ambertek\urls.py changed, reloading.
+INFO 2025-12-07 10:37:38,170 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 10:41:32,603 autoreload D:\ambertek_export\ambertek_export\ambertek\urls.py changed, reloading.
+INFO 2025-12-07 10:41:34,255 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 10:42:45,779 autoreload Watching for file changes with StatReloader
+WARNING 2025-12-07 10:42:54,125 log Not Found: /cart/add/1/
+WARNING 2025-12-07 10:42:54,127 basehttp "GET /cart/add/1/ HTTP/1.1" 404 3681
+WARNING 2025-12-07 10:42:56,686 log Not Found: /cart/add/1/
+WARNING 2025-12-07 10:42:56,687 basehttp "GET /cart/add/1/ HTTP/1.1" 404 3681
+WARNING 2025-12-07 10:42:57,726 log Not Found: /cart/add/1/
+WARNING 2025-12-07 10:42:57,727 basehttp "GET /cart/add/1/ HTTP/1.1" 404 3681
+WARNING 2025-12-07 10:43:03,114 log Not Found: /cart/add/1/
+WARNING 2025-12-07 10:43:03,115 basehttp "GET /cart/add/1/ HTTP/1.1" 404 3681
+INFO 2025-12-07 10:50:14,632 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 10:50:31,881 basehttp "GET / HTTP/1.1" 200 26337
+INFO 2025-12-07 10:50:35,207 basehttp "GET /admin HTTP/1.1" 301 0
+INFO 2025-12-07 10:50:35,264 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-12-07 10:50:35,630 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4170
+INFO 2025-12-07 10:50:36,317 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+INFO 2025-12-07 10:50:36,336 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-12-07 10:50:36,380 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4170
+INFO 2025-12-07 10:50:36,428 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-12-07 10:50:36,470 basehttp - Broken pipe from ('127.0.0.1', 53340)
+INFO 2025-12-07 10:50:36,499 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+INFO 2025-12-07 10:50:36,502 basehttp - Broken pipe from ('127.0.0.1', 63985)
+INFO 2025-12-07 10:50:36,502 basehttp - Broken pipe from ('127.0.0.1', 55629)
+INFO 2025-12-07 10:50:36,510 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+INFO 2025-12-07 10:50:36,513 basehttp "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2025-12-07 10:50:36,621 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-12-07 10:50:36,624 basehttp - Broken pipe from ('127.0.0.1', 63846)
+INFO 2025-12-07 10:50:36,671 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-12-07 10:50:41,054 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+INFO 2025-12-07 10:50:52,968 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+INFO 2025-12-07 10:52:13,095 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 10:52:21,807 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+INFO 2025-12-07 10:52:31,022 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-12-07 10:52:31,364 basehttp "GET /admin/ HTTP/1.1" 200 12483
+INFO 2025-12-07 10:52:31,729 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-12-07 10:52:31,780 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-12-07 10:52:31,848 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-12-07 10:55:16,849 basehttp "GET /admin/products/productimage/add/ HTTP/1.1" 200 15467
+INFO 2025-12-07 10:55:17,001 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-12-07 10:55:17,046 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+INFO 2025-12-07 10:55:17,058 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+INFO 2025-12-07 10:55:17,121 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-12-07 10:55:17,125 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-12-07 10:55:17,200 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 200 11973
+INFO 2025-12-07 10:55:17,246 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-12-07 10:55:17,258 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-12-07 10:55:17,322 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-12-07 10:55:17,324 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-12-07 10:55:17,496 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 10:55:17,569 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2025-12-07 10:55:17,623 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-12-07 10:55:17,800 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-12-07 10:55:25,358 basehttp "GET /admin/ HTTP/1.1" 200 12483
+INFO 2025-12-07 10:55:28,709 basehttp "GET /admin/products/product/add/ HTTP/1.1" 200 21482
+INFO 2025-12-07 10:55:28,825 basehttp "GET /static/admin/js/inlines.js HTTP/1.1" 200 15628
+INFO 2025-12-07 10:55:28,908 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 10:55:29,103 basehttp "GET /static/admin/img/inline-delete.svg HTTP/1.1" 200 537
+INFO 2025-12-07 10:55:38,891 basehttp "GET /admin/ HTTP/1.1" 200 12483
+INFO 2025-12-07 10:55:47,920 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 10:55:48,200 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 10:56:02,102 basehttp - Broken pipe from ('127.0.0.1', 62690)
+INFO 2025-12-07 10:56:02,132 basehttp "POST /admin/products/category/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 10:56:02,576 basehttp "GET /admin/products/category/ HTTP/1.1" 200 14620
+INFO 2025-12-07 10:56:02,669 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2025-12-07 10:56:02,676 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2025-12-07 10:56:02,770 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-12-07 10:56:02,836 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 10:56:02,927 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-12-07 10:56:02,929 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2025-12-07 10:56:14,870 basehttp "GET /admin/products/product/add/ HTTP/1.1" 200 21558
+INFO 2025-12-07 10:56:15,124 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 10:57:05,610 basehttp "POST /admin/products/product/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 10:57:05,858 basehttp "GET /admin/products/product/ HTTP/1.1" 200 17206
+INFO 2025-12-07 10:57:06,026 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 10:57:06,110 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2025-12-07 10:57:13,401 basehttp "GET / HTTP/1.1" 200 26337
+INFO 2025-12-07 10:57:42,021 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 10:57:42,849 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 200 66951
+INFO 2025-12-07 10:57:53,069 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 10:57:53,247 basehttp "GET /cart/ HTTP/1.1" 200 15120
+INFO 2025-12-07 10:57:53,297 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 10:58:02,360 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 10:58:02,614 basehttp "GET /products/ HTTP/1.1" 200 14293
+INFO 2025-12-07 10:58:02,663 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 10:58:08,542 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 10:58:08,697 basehttp "GET /cart/ HTTP/1.1" 200 15120
+INFO 2025-12-07 10:58:08,757 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 10:58:10,319 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 10:58:10,485 basehttp "GET /products/ HTTP/1.1" 200 14293
+INFO 2025-12-07 11:00:03,190 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:00:03,353 basehttp "GET /cart/ HTTP/1.1" 200 15120
+INFO 2025-12-07 11:00:03,415 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:00:05,609 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:00:05,796 basehttp "GET /products/ HTTP/1.1" 200 14293
+INFO 2025-12-07 11:05:30,819 basehttp - Broken pipe from ('127.0.0.1', 55658)
+INFO 2025-12-07 11:05:30,870 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:05:31,025 basehttp "GET /cart/ HTTP/1.1" 200 15122
+INFO 2025-12-07 11:05:31,080 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:05:41,648 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:05:41,807 basehttp "GET /products/ HTTP/1.1" 200 14293
+INFO 2025-12-07 11:06:18,199 basehttp "GET /admin/ HTTP/1.1" 200 13575
+INFO 2025-12-07 11:06:30,380 basehttp "GET /admin/home/featuredproduct/add/ HTTP/1.1" 200 16312
+INFO 2025-12-07 11:06:30,730 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 11:07:32,818 basehttp "POST /admin/home/featuredproduct/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:07:33,007 basehttp "GET /admin/home/featuredproduct/ HTTP/1.1" 200 17622
+INFO 2025-12-07 11:07:33,201 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 11:07:43,332 basehttp "GET / HTTP/1.1" 200 20920
+INFO 2025-12-07 11:07:43,430 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 200 66951
+INFO 2025-12-07 11:08:14,121 basehttp "GET /language/sw/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:08:14,269 basehttp "GET / HTTP/1.1" 200 20904
+INFO 2025-12-07 11:08:14,338 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:08:52,738 basehttp "GET /language/sw/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:08:52,981 basehttp "GET / HTTP/1.1" 200 20904
+INFO 2025-12-07 11:08:53,051 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:09:18,584 basehttp "GET /products/ HTTP/1.1" 200 13990
+INFO 2025-12-07 11:09:18,643 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:12:46,125 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:12:46,261 basehttp "GET /cart/ HTTP/1.1" 200 15143
+INFO 2025-12-07 11:12:46,318 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:12:48,616 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:12:48,775 basehttp "GET /products/ HTTP/1.1" 200 14285
+INFO 2025-12-07 11:12:50,968 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:12:51,128 basehttp "GET /products/ HTTP/1.1" 200 14285
+INFO 2025-12-07 11:12:58,727 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:12:58,884 basehttp "GET /products/ HTTP/1.1" 200 14285
+INFO 2025-12-07 11:13:04,276 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:13:04,403 basehttp "GET /cart/ HTTP/1.1" 200 15143
+INFO 2025-12-07 11:13:05,845 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:13:06,028 basehttp "GET /products/ HTTP/1.1" 200 14285
+INFO 2025-12-07 11:13:25,184 basehttp "GET /products/category/1/ HTTP/1.1" 200 12451
+INFO 2025-12-07 11:13:26,501 basehttp "GET /products/category/2/ HTTP/1.1" 200 13986
+INFO 2025-12-07 11:13:27,741 basehttp "GET /products/category/1/ HTTP/1.1" 200 12451
+INFO 2025-12-07 11:13:28,409 basehttp "GET /products/ HTTP/1.1" 200 13990
+INFO 2025-12-07 11:14:17,303 basehttp "GET /products/1/ HTTP/1.1" 200 14747
+INFO 2025-12-07 11:14:53,075 basehttp "GET /language/sw/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:14:53,221 basehttp "GET /products/1/ HTTP/1.1" 200 14747
+INFO 2025-12-07 11:14:53,282 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:14:55,145 basehttp "GET /language/en/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:14:55,269 basehttp "GET /products/1/ HTTP/1.1" 200 14760
+INFO 2025-12-07 11:15:10,476 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 11:15:11,467 basehttp "GET /contact/ HTTP/1.1" 200 15762
+INFO 2025-12-07 11:15:13,079 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 11:15:14,009 basehttp "GET / HTTP/1.1" 200 20920
+INFO 2025-12-07 11:15:14,192 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:15:15,905 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 11:15:21,179 basehttp "GET / HTTP/1.1" 200 20920
+INFO 2025-12-07 11:17:16,288 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 11:17:16,342 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:17:30,005 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:17:30,269 basehttp "GET /cart/ HTTP/1.1" 200 15122
+INFO 2025-12-07 11:17:31,522 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:17:31,681 basehttp "GET /products/ HTTP/1.1" 200 14293
+INFO 2025-12-07 11:17:46,101 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:17:46,241 basehttp "GET /cart/ HTTP/1.1" 200 15122
+INFO 2025-12-07 11:17:47,792 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:17:48,035 basehttp "GET /products/ HTTP/1.1" 200 14293
+INFO 2025-12-07 11:23:07,156 autoreload D:\ambertek_export\ambertek_export\orders\views.py changed, reloading.
+INFO 2025-12-07 11:23:10,063 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 11:25:18,927 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 11:25:25,623 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 11:25:25,687 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:25:31,492 basehttp - Broken pipe from ('127.0.0.1', 55553)
+INFO 2025-12-07 11:25:31,527 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:25:31,678 basehttp "GET /cart/ HTTP/1.1" 200 15124
+INFO 2025-12-07 11:25:50,027 basehttp "POST /cart/update/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:25:50,162 basehttp "GET /cart/ HTTP/1.1" 200 14827
+INFO 2025-12-07 11:25:52,571 basehttp "POST /cart/update/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:25:52,687 basehttp "GET /cart/ HTTP/1.1" 200 14827
+INFO 2025-12-07 11:25:54,271 basehttp "GET /place-order/ HTTP/1.1" 200 17837
+INFO 2025-12-07 11:26:15,491 basehttp "POST /place-order/ HTTP/1.1" 200 15095
+INFO 2025-12-07 11:34:12,693 autoreload D:\ambertek_export\ambertek_export\orders\models.py changed, reloading.
+INFO 2025-12-07 11:34:14,323 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 11:45:29,928 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 11:45:40,787 basehttp "POST /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:45:40,930 basehttp "GET /cart/ HTTP/1.1" 200 10196
+INFO 2025-12-07 11:45:45,928 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 11:45:45,982 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:45:50,161 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:45:50,311 basehttp "GET /cart/ HTTP/1.1" 200 15120
+INFO 2025-12-07 11:45:53,529 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:45:53,650 basehttp "GET /checkout/ HTTP/1.1" 200 0
+INFO 2025-12-07 11:46:04,952 basehttp "GET /checkout/ HTTP/1.1" 200 0
+INFO 2025-12-07 11:46:05,957 basehttp "GET /checkout/ HTTP/1.1" 200 0
+INFO 2025-12-07 11:46:09,845 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:46:10,103 basehttp "GET /cart/ HTTP/1.1" 200 15120
+INFO 2025-12-07 11:46:12,093 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:46:12,204 basehttp "GET /checkout/ HTTP/1.1" 200 0
+INFO 2025-12-07 11:46:17,880 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:46:17,992 basehttp "GET /checkout/ HTTP/1.1" 200 0
+INFO 2025-12-07 11:47:56,331 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 11:48:04,980 basehttp "GET /cart/ HTTP/1.1" 200 14827
+INFO 2025-12-07 11:48:06,653 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:48:06,794 basehttp "GET /checkout/ HTTP/1.1" 200 0
+INFO 2025-12-07 11:52:35,197 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 11:52:41,149 basehttp "GET /cart/ HTTP/1.1" 200 14827
+INFO 2025-12-07 11:52:41,208 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 11:52:44,139 basehttp "GET /cart/ HTTP/1.1" 200 14827
+INFO 2025-12-07 11:52:45,614 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:52:45,817 basehttp "GET /checkout/ HTTP/1.1" 200 16293
+INFO 2025-12-07 11:53:32,882 basehttp "POST /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 11:53:33,050 basehttp "GET /checkout/ HTTP/1.1" 200 16920
+INFO 2025-12-07 11:55:33,241 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 11:56:34,537 autoreload D:\ambertek_export\ambertek_export\orders\views.py changed, reloading.
+INFO 2025-12-07 11:56:36,299 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 11:56:41,374 basehttp "GET /checkout/ HTTP/1.1" 200 16293
+INFO 2025-12-07 11:56:59,777 basehttp "POST /place-order/ HTTP/1.1" 200 15121
+INFO 2025-12-07 12:04:08,651 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 12:04:22,374 basehttp "GET /checkout/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:04:22,592 basehttp "GET /cart/ HTTP/1.1" 200 10196
+INFO 2025-12-07 12:04:26,523 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:04:26,587 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 12:04:30,246 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:04:30,375 basehttp "GET /cart/ HTTP/1.1" 200 15120
+INFO 2025-12-07 12:04:38,354 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:04:38,486 basehttp "GET /checkout/ HTTP/1.1" 200 16293
+INFO 2025-12-07 12:04:57,764 basehttp "POST /place-order/ HTTP/1.1" 200 15121
+INFO 2025-12-07 12:05:20,765 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:05:29,846 basehttp - Broken pipe from ('127.0.0.1', 54892)
+INFO 2025-12-07 12:05:29,878 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:05:31,709 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:05:31,809 basehttp - Broken pipe from ('127.0.0.1', 63984)
+INFO 2025-12-07 12:07:20,123 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:07:21,786 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:07:23,928 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:07:27,760 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:07:27,938 basehttp "GET /cart/ HTTP/1.1" 200 15120
+INFO 2025-12-07 12:07:30,664 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:07:30,853 basehttp "GET /checkout/ HTTP/1.1" 200 16293
+INFO 2025-12-07 12:07:48,763 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:07:48,890 basehttp "GET /checkout/ HTTP/1.1" 200 16293
+INFO 2025-12-07 12:08:18,028 basehttp "GET /checkout/ HTTP/1.1" 200 16293
+WARNING 2025-12-07 12:08:18,884 log Not Found: /favicon.ico
+WARNING 2025-12-07 12:08:18,885 basehttp "GET /favicon.ico HTTP/1.1" 404 5516
+INFO 2025-12-07 12:08:32,925 basehttp - Broken pipe from ('127.0.0.1', 51360)
+INFO 2025-12-07 12:08:32,974 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:08:44,756 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:08:53,038 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:08:53,167 basehttp "GET /cart/ HTTP/1.1" 200 15120
+INFO 2025-12-07 12:08:57,229 basehttp "POST /cart/update/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:08:57,343 basehttp "GET /cart/ HTTP/1.1" 200 14827
+INFO 2025-12-07 12:09:08,040 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:09:08,174 basehttp "GET /checkout/ HTTP/1.1" 200 16293
+INFO 2025-12-07 12:09:21,421 basehttp "POST /place-order/ HTTP/1.1" 200 15121
+INFO 2025-12-07 12:09:39,043 basehttp "GET / HTTP/1.1" 200 20920
+INFO 2025-12-07 12:09:39,256 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 12:10:32,461 basehttp "GET /products/ HTTP/1.1" 200 13998
+INFO 2025-12-07 12:10:36,434 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:10:36,586 basehttp "GET /cart/ HTTP/1.1" 200 15120
+INFO 2025-12-07 12:10:39,749 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:10:39,889 basehttp "GET /checkout/ HTTP/1.1" 200 16293
+INFO 2025-12-07 12:10:48,712 basehttp "POST /place-order/ HTTP/1.1" 200 15121
+INFO 2025-12-07 12:25:34,049 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 12:25:42,384 basehttp "GET / HTTP/1.1" 200 20921
+INFO 2025-12-07 12:25:42,494 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 12:26:04,205 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 12:26:04,260 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 12:26:08,386 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:26:08,545 basehttp "GET /cart/ HTTP/1.1" 200 15121
+INFO 2025-12-07 12:26:28,018 basehttp - Broken pipe from ('127.0.0.1', 59125)
+INFO 2025-12-07 12:26:28,044 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 12:26:28,175 basehttp "GET /checkout/ HTTP/1.1" 200 16294
+INFO 2025-12-07 12:26:37,056 basehttp "GET /cart/ HTTP/1.1" 200 14828
+INFO 2025-12-07 12:26:44,481 basehttp - Broken pipe from ('127.0.0.1', 65170)
+INFO 2025-12-07 12:26:44,512 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 12:26:45,472 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 12:26:51,461 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 12:26:52,592 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 12:26:56,276 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 12:27:02,882 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 12:27:04,978 basehttp "GET /products/category/1/ HTTP/1.1" 200 12466
+INFO 2025-12-07 12:27:06,539 basehttp - Broken pipe from ('127.0.0.1', 64482)
+INFO 2025-12-07 12:27:06,566 basehttp "GET /products/category/2/ HTTP/1.1" 200 13994
+INFO 2025-12-07 14:27:39,967 basehttp "GET / HTTP/1.1" 200 20921
+INFO 2025-12-07 14:27:40,116 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 14:28:09,117 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 14:28:09,196 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 14:28:15,145 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:28:15,317 basehttp "GET /cart/ HTTP/1.1" 200 15121
+INFO 2025-12-07 14:28:29,515 basehttp "POST /cart/update/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:28:29,677 basehttp "GET /cart/ HTTP/1.1" 200 14828
+INFO 2025-12-07 14:28:31,724 basehttp - Broken pipe from ('127.0.0.1', 55876)
+INFO 2025-12-07 14:28:31,748 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:28:31,888 basehttp "GET /checkout/ HTTP/1.1" 200 16294
+INFO 2025-12-07 14:28:51,311 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:28:51,469 basehttp "GET /checkout/ HTTP/1.1" 200 16294
+INFO 2025-12-07 14:30:19,809 basehttp "POST /place-order/ HTTP/1.1" 200 15122
+INFO 2025-12-07 14:31:14,744 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 14:34:15,873 autoreload D:\ambertek_export\ambertek_export\utils\email_service.py changed, reloading.
+INFO 2025-12-07 14:34:18,464 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 14:34:36,160 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 14:35:04,893 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 14:35:11,825 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:35:11,985 basehttp "GET /cart/ HTTP/1.1" 200 15121
+INFO 2025-12-07 14:35:13,993 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:35:14,136 basehttp "GET /checkout/ HTTP/1.1" 200 16294
+INFO 2025-12-07 14:35:37,236 basehttp "POST /place-order/ HTTP/1.1" 200 15122
+INFO 2025-12-07 14:48:45,809 autoreload D:\ambertek_export\ambertek_export\ambertek\settings.py changed, reloading.
+INFO 2025-12-07 14:48:47,481 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 14:49:33,207 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 14:49:43,849 basehttp "POST /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:49:44,010 basehttp "GET /cart/ HTTP/1.1" 200 10197
+INFO 2025-12-07 14:49:47,766 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 14:49:47,832 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 14:49:53,652 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:49:53,822 basehttp "GET /cart/ HTTP/1.1" 200 15121
+INFO 2025-12-07 14:49:55,391 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:49:55,535 basehttp "GET /checkout/ HTTP/1.1" 200 16294
+INFO 2025-12-07 14:50:27,736 basehttp "POST /place-order/ HTTP/1.1" 200 15122
+INFO 2025-12-07 14:53:13,101 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 14:53:14,146 basehttp - Broken pipe from ('127.0.0.1', 58302)
+INFO 2025-12-07 14:53:14,188 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 14:53:16,483 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 14:53:17,562 basehttp "GET / HTTP/1.1" 200 20921
+INFO 2025-12-07 14:53:17,642 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 14:54:43,579 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 14:56:43,755 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 14:56:52,197 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 14:56:53,989 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 15:09:43,306 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 15:09:50,462 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 15:09:54,295 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 15:09:54,455 basehttp "GET /cart/ HTTP/1.1" 200 15121
+INFO 2025-12-07 15:10:05,922 basehttp "POST /cart/update/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 15:10:06,091 basehttp "GET /cart/ HTTP/1.1" 200 14828
+INFO 2025-12-07 15:10:09,209 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 15:10:09,344 basehttp "GET /checkout/ HTTP/1.1" 200 16294
+INFO 2025-12-07 15:11:13,120 basehttp "POST /place-order/ HTTP/1.1" 200 15118
+INFO 2025-12-07 15:13:19,840 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 15:13:19,919 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 15:26:27,264 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 15:26:33,859 basehttp "GET /products/ HTTP/1.1" 200 13999
+INFO 2025-12-07 15:26:33,859 basehttp - Broken pipe from ('127.0.0.1', 54512)
+INFO 2025-12-07 15:26:39,552 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-07 15:26:39,820 basehttp "GET /cart/ HTTP/1.1" 200 15121
+INFO 2025-12-07 15:26:50,356 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 15:26:50,518 basehttp "GET /checkout/ HTTP/1.1" 200 16294
+INFO 2025-12-07 15:27:08,848 basehttp "POST /place-order/ HTTP/1.1" 200 15122
+INFO 2025-12-07 19:31:40,279 autoreload Watching for file changes with StatReloader
+WARNING 2025-12-07 19:48:19,298 basehttp "GET /products/admin HTTP/1.1" 404 5525
+INFO 2025-12-07 19:49:32,556 basehttp "GET / HTTP/1.1" 200 20921
+INFO 2025-12-07 19:49:32,661 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 19:49:35,453 basehttp "GET /admin/ HTTP/1.1" 200 13948
+INFO 2025-12-07 19:49:47,982 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 19:49:48,165 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:50:31,884 basehttp "POST /admin/products/category/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 19:50:32,442 basehttp "GET /admin/products/category/ HTTP/1.1" 200 14950
+INFO 2025-12-07 19:50:32,625 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:50:37,224 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 19:50:37,456 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:50:46,696 basehttp - Broken pipe from ('127.0.0.1', 49377)
+INFO 2025-12-07 19:50:46,760 basehttp "POST /admin/products/category/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 19:50:47,019 basehttp "GET /admin/products/category/ HTTP/1.1" 200 15509
+INFO 2025-12-07 19:50:47,181 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:50:48,782 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 19:50:49,074 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:50:58,936 basehttp "POST /admin/products/category/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 19:50:59,088 basehttp "GET /admin/products/category/ HTTP/1.1" 200 15796
+INFO 2025-12-07 19:50:59,405 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:51:01,574 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 19:51:01,825 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:51:37,808 basehttp "POST /admin/products/category/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 19:51:37,964 basehttp "GET /admin/products/category/ HTTP/1.1" 200 16098
+INFO 2025-12-07 19:51:38,357 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:52:46,322 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 19:52:46,578 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:53:10,411 basehttp "POST /admin/products/category/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 19:53:10,579 basehttp "GET /admin/products/category/ HTTP/1.1" 200 16389
+INFO 2025-12-07 19:53:10,985 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:53:24,247 basehttp "POST /admin/products/category/ HTTP/1.1" 200 12585
+INFO 2025-12-07 19:53:24,611 basehttp "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2025-12-07 19:53:26,264 basehttp "POST /admin/products/category/ HTTP/1.1" 302 0
+INFO 2025-12-07 19:53:26,409 basehttp "GET /admin/products/category/ HTTP/1.1" 200 15745
+INFO 2025-12-07 19:53:26,730 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:54:58,774 basehttp - Broken pipe from ('127.0.0.1', 59469)
+INFO 2025-12-07 19:54:58,803 basehttp "GET / HTTP/1.1" 200 20921
+INFO 2025-12-07 19:55:42,260 basehttp "GET /admin/ HTTP/1.1" 200 15975
+INFO 2025-12-07 19:55:42,703 basehttp "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2025-12-07 19:55:52,216 basehttp "GET /admin/home/categorybanner/add/ HTTP/1.1" 200 16392
+INFO 2025-12-07 19:55:52,397 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:58:21,993 basehttp "POST /admin/home/categorybanner/add/ HTTP/1.1" 200 16644
+INFO 2025-12-07 19:58:22,234 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:59:24,726 basehttp "POST /admin/home/categorybanner/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 19:59:24,908 basehttp "GET /admin/home/categorybanner/ HTTP/1.1" 200 16595
+INFO 2025-12-07 19:59:25,079 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:59:34,981 basehttp - Broken pipe from ('127.0.0.1', 50310)
+INFO 2025-12-07 19:59:35,050 basehttp "GET /admin/home/categorybanner/add/ HTTP/1.1" 200 16392
+INFO 2025-12-07 19:59:35,301 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:06:14,269 basehttp - Broken pipe from ('127.0.0.1', 54113)
+INFO 2025-12-07 20:06:14,287 basehttp "POST /admin/home/categorybanner/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:06:14,462 basehttp "GET /admin/home/categorybanner/ HTTP/1.1" 200 18009
+INFO 2025-12-07 20:06:14,929 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:06:24,654 basehttp - Broken pipe from ('127.0.0.1', 65322)
+INFO 2025-12-07 20:06:24,716 basehttp "GET /admin/home/categorybanner/add/ HTTP/1.1" 200 16392
+INFO 2025-12-07 20:06:24,918 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:12:57,114 basehttp "POST /admin/home/categorybanner/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:12:57,311 basehttp "GET /admin/home/categorybanner/ HTTP/1.1" 200 18659
+INFO 2025-12-07 20:12:57,483 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:13:48,046 basehttp "POST /admin/home/categorybanner/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:13:48,193 basehttp "GET /admin/home/categorybanner/ HTTP/1.1" 200 18595
+INFO 2025-12-07 20:13:48,358 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:14:23,150 basehttp "GET /admin/home/categorybanner/add/ HTTP/1.1" 200 16392
+INFO 2025-12-07 20:14:23,390 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:16:44,414 basehttp "POST /admin/home/categorybanner/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:16:44,579 basehttp "GET /admin/home/categorybanner/ HTTP/1.1" 200 19381
+INFO 2025-12-07 20:16:44,893 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:17:04,801 basehttp "POST /admin/home/categorybanner/ HTTP/1.1" 200 12484
+INFO 2025-12-07 20:17:06,463 basehttp "POST /admin/home/categorybanner/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:17:06,624 basehttp "GET /admin/home/categorybanner/ HTTP/1.1" 200 18589
+INFO 2025-12-07 20:17:06,815 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:17:27,485 basehttp "GET / HTTP/1.1" 200 21048
+INFO 2025-12-07 20:17:27,583 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 200 88013
+INFO 2025-12-07 20:17:27,635 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 200 63542
+INFO 2025-12-07 20:17:27,658 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 200 71329
+INFO 2025-12-07 20:17:27,667 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 200 48839
+INFO 2025-12-07 20:18:39,798 basehttp "GET /admin/ HTTP/1.1" 200 16060
+INFO 2025-12-07 20:18:50,143 basehttp "GET /admin/home/categorybanner/add/ HTTP/1.1" 200 16392
+INFO 2025-12-07 20:18:50,432 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:21:15,330 basehttp "POST /admin/home/categorybanner/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:21:15,509 basehttp "GET /admin/home/categorybanner/ HTTP/1.1" 200 19376
+INFO 2025-12-07 20:21:15,682 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:21:53,001 basehttp "GET /admin/home/categorybanner/add/ HTTP/1.1" 200 16392
+INFO 2025-12-07 20:21:53,258 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:24:04,391 basehttp "POST /admin/home/categorybanner/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:24:04,588 basehttp "GET /admin/home/categorybanner/ HTTP/1.1" 200 20028
+INFO 2025-12-07 20:24:04,776 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:24:27,660 basehttp "GET / HTTP/1.1" 200 22421
+INFO 2025-12-07 20:24:27,732 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:24:27,732 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:24:27,765 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:24:27,768 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:24:27,884 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 200 86999
+INFO 2025-12-07 20:24:27,888 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 200 106589
+INFO 2025-12-07 20:25:21,883 basehttp "GET /admin/ HTTP/1.1" 200 16136
+INFO 2025-12-07 20:25:28,877 basehttp "GET /admin/home/featuredproduct/add/ HTTP/1.1" 200 16312
+INFO 2025-12-07 20:25:29,180 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:27:25,801 basehttp "POST /admin/home/featuredproduct/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:27:26,006 basehttp "GET /admin/home/featuredproduct/ HTTP/1.1" 200 18399
+INFO 2025-12-07 20:27:26,230 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:27:38,400 basehttp "GET /admin/home/featuredproduct/add/ HTTP/1.1" 200 16312
+INFO 2025-12-07 20:27:38,665 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:30:05,803 basehttp "POST /admin/home/featuredproduct/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:30:05,999 basehttp "GET /admin/home/featuredproduct/ HTTP/1.1" 200 19192
+INFO 2025-12-07 20:30:06,172 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:30:09,439 basehttp "GET / HTTP/1.1" 200 25624
+INFO 2025-12-07 20:30:09,505 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:30:09,506 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:30:09,534 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:30:09,536 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:30:09,589 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:30:09,619 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:30:09,620 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 200 102006
+INFO 2025-12-07 20:30:09,649 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 200 62828
+INFO 2025-12-07 20:32:47,063 basehttp "GET /admin/ HTTP/1.1" 200 16172
+INFO 2025-12-07 20:32:53,295 basehttp "GET /admin/home/featuredproduct/add/ HTTP/1.1" 200 16312
+INFO 2025-12-07 20:32:53,564 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:33:50,509 basehttp "POST /admin/home/featuredproduct/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:33:50,682 basehttp "GET /admin/home/featuredproduct/ HTTP/1.1" 200 19980
+INFO 2025-12-07 20:33:50,874 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:33:56,413 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 20:33:56,477 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:33:56,498 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:33:56,498 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:33:56,498 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:33:56,499 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:33:56,508 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:33:56,554 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:33:56,601 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:33:56,602 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 200 47291
+INFO 2025-12-07 20:34:20,374 basehttp "GET /products/ HTTP/1.1" 200 15144
+INFO 2025-12-07 20:34:20,437 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:34:40,286 basehttp "GET /admin/ HTTP/1.1" 200 16155
+INFO 2025-12-07 20:34:50,578 basehttp "GET /admin/products/product/add/ HTTP/1.1" 200 21723
+INFO 2025-12-07 20:34:50,808 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:36:46,618 basehttp "POST /admin/products/product/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:36:46,867 basehttp "GET /admin/products/product/ HTTP/1.1" 200 18009
+INFO 2025-12-07 20:36:47,498 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:36:52,773 basehttp "GET /admin/products/product/add/ HTTP/1.1" 200 21723
+INFO 2025-12-07 20:36:53,031 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:39:33,850 basehttp "POST /admin/products/product/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:39:34,036 basehttp "GET /admin/products/product/ HTTP/1.1" 200 18527
+INFO 2025-12-07 20:39:34,230 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:39:43,598 basehttp "GET /admin/products/product/add/ HTTP/1.1" 200 21723
+INFO 2025-12-07 20:39:43,806 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:43:07,415 basehttp "POST /admin/products/product/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:43:07,573 basehttp "GET /admin/products/product/ HTTP/1.1" 200 19004
+INFO 2025-12-07 20:43:07,796 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:45:08,957 basehttp "GET /admin/products/product/add/ HTTP/1.1" 200 21723
+INFO 2025-12-07 20:45:09,214 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:46:37,962 basehttp "POST /admin/products/product/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:46:38,126 basehttp "GET /admin/products/product/ HTTP/1.1" 200 19515
+INFO 2025-12-07 20:46:38,293 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:46:55,547 basehttp "GET /admin/products/product/add/ HTTP/1.1" 200 21723
+INFO 2025-12-07 20:46:55,812 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:50:34,901 basehttp "POST /admin/products/product/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:50:35,084 basehttp "GET /admin/products/product/ HTTP/1.1" 200 20072
+INFO 2025-12-07 20:50:35,256 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:50:38,037 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 20:50:38,103 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:38,104 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:38,116 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:38,131 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:38,177 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:38,178 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:38,188 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:38,196 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:38,244 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:38,263 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:50:44,034 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 20:50:44,135 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 200 69302
+INFO 2025-12-07 20:50:44,148 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 200 47291
+INFO 2025-12-07 20:50:44,181 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 200 106589
+INFO 2025-12-07 20:50:44,196 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 200 48839
+INFO 2025-12-07 20:50:44,257 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 200 88013
+INFO 2025-12-07 20:50:54,732 basehttp "GET /products/category/2/ HTTP/1.1" 200 19363
+INFO 2025-12-07 20:51:01,992 basehttp "GET /products/category/3/ HTTP/1.1" 200 13624
+INFO 2025-12-07 20:51:03,741 basehttp "GET /products/category/5/ HTTP/1.1" 200 15129
+INFO 2025-12-07 20:51:08,614 basehttp "GET /products/category/6/ HTTP/1.1" 200 15128
+INFO 2025-12-07 20:51:16,847 basehttp "GET /products/category/5/ HTTP/1.1" 200 15129
+INFO 2025-12-07 20:51:22,557 basehttp "GET /products/4/ HTTP/1.1" 200 14716
+INFO 2025-12-07 20:51:26,112 basehttp "GET /cart/add/4/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:51:26,287 basehttp "GET /cart/ HTTP/1.1" 200 15101
+INFO 2025-12-07 20:51:36,748 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:51:36,999 basehttp "GET /checkout/ HTTP/1.1" 200 16282
+INFO 2025-12-07 20:52:18,262 basehttp "POST /place-order/ HTTP/1.1" 200 15121
+INFO 2025-12-07 20:52:44,239 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 20:52:44,345 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:52:44,405 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:53:16,768 basehttp "GET /language/sw/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:53:16,912 basehttp "GET / HTTP/1.1" 200 27252
+INFO 2025-12-07 20:53:16,983 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:53:41,102 basehttp "GET /language/en/ HTTP/1.1" 302 0
+INFO 2025-12-07 20:53:41,267 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 20:53:41,375 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:53:41,385 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:55:05,393 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 20:55:05,475 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:55:05,476 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:55:05,477 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:55:05,477 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:55:05,496 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:55:08,853 basehttp "GET /products/category/8/ HTTP/1.1" 200 13612
+INFO 2025-12-07 20:55:09,809 basehttp "GET /products/category/7/ HTTP/1.1" 200 15229
+INFO 2025-12-07 20:55:10,635 basehttp "GET /products/category/6/ HTTP/1.1" 200 15128
+INFO 2025-12-07 20:55:11,511 basehttp "GET /products/category/5/ HTTP/1.1" 200 15129
+INFO 2025-12-07 20:55:12,141 basehttp "GET /products/category/3/ HTTP/1.1" 200 13624
+INFO 2025-12-07 20:55:12,839 basehttp "GET /products/category/2/ HTTP/1.1" 200 19363
+INFO 2025-12-07 20:55:13,495 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 20:55:19,679 basehttp "GET /products/category/3/ HTTP/1.1" 200 13624
+INFO 2025-12-07 20:55:32,794 basehttp "GET /admin/ HTTP/1.1" 200 16121
+INFO 2025-12-07 20:55:41,494 basehttp "GET /admin/auth/user/add/ HTTP/1.1" 200 16941
+INFO 2025-12-07 20:55:41,596 basehttp "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 663
+INFO 2025-12-07 20:55:41,681 basehttp "GET /static/admin/js/unusable_password_field.js HTTP/1.1" 200 1480
+INFO 2025-12-07 20:55:41,725 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:56:40,819 basehttp "POST /admin/auth/user/add/ HTTP/1.1" 200 17185
+INFO 2025-12-07 20:56:40,994 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 20:56:54,994 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 20:56:55,063 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:56:55,068 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:56:55,105 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:56:55,108 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:56:55,109 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:56:55,111 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:56:55,112 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:56:55,164 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:57:21,997 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 20:57:22,070 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:57:22,088 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:57:22,089 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:57:22,089 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:57:22,090 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:58:06,166 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 20:58:06,231 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 20:58:08,665 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 21:05:14,270 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 21:05:30,535 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 21:05:30,609 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:05:30,612 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:05:30,684 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:05:30,704 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:05:30,784 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:07:21,681 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 21:08:31,295 basehttp "GET /products/6/ HTTP/1.1" 200 14885
+INFO 2025-12-07 21:08:31,359 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:09:28,211 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 21:09:28,298 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:09:28,299 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:09:28,331 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:09:28,349 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:09:43,501 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 21:09:43,705 basehttp "GET /checkout/ HTTP/1.1" 302 0
+INFO 2025-12-07 21:09:43,887 basehttp "GET /cart/ HTTP/1.1" 200 10197
+INFO 2025-12-07 21:09:51,038 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 21:10:50,724 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 21:12:36,231 basehttp "GET /contact/? HTTP/1.1" 200 15763
+INFO 2025-12-07 21:13:55,447 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 21:13:55,507 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:13:55,511 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:13:55,517 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:13:55,518 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:13:55,527 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:13:58,516 basehttp - Broken pipe from ('127.0.0.1', 58446)
+INFO 2025-12-07 21:13:58,567 basehttp "GET /products/category/2/ HTTP/1.1" 200 19363
+INFO 2025-12-07 21:14:04,267 basehttp "GET /products/category/3/ HTTP/1.1" 200 13624
+INFO 2025-12-07 21:14:05,734 basehttp "GET /products/category/5/ HTTP/1.1" 200 15129
+INFO 2025-12-07 21:14:07,434 basehttp "GET /products/category/6/ HTTP/1.1" 200 15128
+INFO 2025-12-07 21:14:08,888 basehttp "GET /products/category/7/ HTTP/1.1" 200 15229
+INFO 2025-12-07 21:14:10,345 basehttp "GET /products/category/8/ HTTP/1.1" 200 13612
+INFO 2025-12-07 21:14:46,798 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 21:17:46,441 basehttp "GET /cart/add/4/ HTTP/1.1" 302 0
+INFO 2025-12-07 21:17:46,566 basehttp "GET /cart/ HTTP/1.1" 200 15101
+INFO 2025-12-07 21:17:46,620 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:49,910 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 21:17:49,975 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:49,982 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:49,983 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:49,996 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:58,400 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 21:17:58,470 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:58,480 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:58,497 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:58,498 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:58,514 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:58,516 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:58,519 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:58,549 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 21:17:58,567 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:22,948 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 22:02:45,567 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 22:02:45,658 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:45,668 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:45,671 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:45,681 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:45,694 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:45,696 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:45,729 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:45,751 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:45,754 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:45,776 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:48,562 basehttp "GET /products/ HTTP/1.1" 200 25681
+INFO 2025-12-07 22:02:48,652 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:48,653 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:48,653 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:48,655 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:48,656 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:02:48,656 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 22:03:34,789 basehttp "GET /products/category/2/ HTTP/1.1" 200 19363
+INFO 2025-12-07 22:03:36,553 basehttp "GET /products/category/3/ HTTP/1.1" 200 13624
+INFO 2025-12-07 22:03:52,119 basehttp "GET /admin/ HTTP/1.1" 200 16121
+INFO 2025-12-07 22:04:12,067 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 22:04:12,256 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 22:04:23,309 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 22:04:23,467 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 22:04:26,293 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 22:04:26,452 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 22:04:34,028 basehttp "GET /admin/products/category/ HTTP/1.1" 200 15605
+INFO 2025-12-07 22:04:34,190 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 22:04:48,104 basehttp "POST /admin/products/category/ HTTP/1.1" 200 12456
+INFO 2025-12-07 22:04:50,070 basehttp "POST /admin/products/category/ HTTP/1.1" 302 0
+INFO 2025-12-07 22:04:50,206 basehttp "GET /admin/products/category/ HTTP/1.1" 200 15426
+INFO 2025-12-07 22:04:50,365 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 22:04:53,367 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 22:04:53,604 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 22:05:21,729 basehttp "POST /admin/products/category/add/ HTTP/1.1" 302 0
+INFO 2025-12-07 22:05:21,974 basehttp "GET /admin/products/category/ HTTP/1.1" 200 15826
+INFO 2025-12-07 22:05:22,135 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 22:05:40,995 basehttp "GET /admin/products/category/add/ HTTP/1.1" 200 14379
+INFO 2025-12-07 22:05:42,403 basehttp "GET /admin/products/category/ HTTP/1.1" 200 15607
+INFO 2025-12-07 22:05:48,640 basehttp "GET /admin/products/category/ HTTP/1.1" 200 15607
+INFO 2025-12-07 22:05:51,128 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 22:07:10,027 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 22:07:11,538 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 22:07:13,244 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 22:07:14,879 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 22:07:15,866 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 22:07:18,563 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 22:07:20,163 basehttp - Broken pipe from ('127.0.0.1', 51057)
+INFO 2025-12-07 22:07:20,204 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 22:07:39,144 basehttp "GET /products/6/ HTTP/1.1" 200 14885
+INFO 2025-12-07 22:08:07,073 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 22:08:08,241 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 22:08:10,078 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 22:08:12,300 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 22:08:15,640 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 22:08:17,571 basehttp - Broken pipe from ('127.0.0.1', 53719)
+INFO 2025-12-07 22:08:17,601 basehttp - Broken pipe from ('127.0.0.1', 49402)
+INFO 2025-12-07 22:08:17,624 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 22:08:19,302 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 22:09:23,019 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 22:09:24,047 basehttp "GET /contact/ HTTP/1.1" 200 15763
+INFO 2025-12-07 22:09:25,289 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 22:09:26,540 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 22:18:57,433 autoreload D:\ambertek_export\ambertek_export\ambertek\settings.py changed, reloading.
+INFO 2025-12-07 22:18:59,632 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 22:28:36,948 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 22:33:55,645 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 22:34:43,800 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 22:36:13,523 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 23:08:05,680 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 23:17:20,690 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 23:17:35,248 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 23:17:35,747 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:35,776 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:35,796 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:35,870 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:35,872 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:36,040 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:36,143 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:36,143 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:36,148 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:36,176 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:51,456 basehttp "GET /products/ HTTP/1.1" 200 25682
+INFO 2025-12-07 23:17:51,838 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:51,857 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:51,905 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:51,919 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:52,044 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:17:52,058 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:22:07,299 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 23:22:25,775 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 23:22:28,419 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 23:22:29,749 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 23:22:30,867 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 23:22:33,031 basehttp "GET / HTTP/1.1" 200 27228
+INFO 2025-12-07 23:25:34,303 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 23:26:21,102 basehttp "GET / HTTP/1.1" 200 29193
+INFO 2025-12-07 23:26:55,428 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-07 23:26:55,555 basehttp "GET / HTTP/1.1" 200 28507
+INFO 2025-12-07 23:27:05,149 basehttp "GET /accounts/login/ HTTP/1.1" 200 509
+ERROR 2025-12-07 23:27:18,575 basehttp "POST /accounts/login/ HTTP/1.1" 500 111473
+INFO 2025-12-07 23:27:25,228 basehttp "GET /accounts/login/ HTTP/1.1" 200 509
+INFO 2025-12-07 23:27:29,237 basehttp "GET /accounts/register/ HTTP/1.1" 200 663
+INFO 2025-12-07 23:34:51,670 basehttp "GET / HTTP/1.1" 200 28199
+INFO 2025-12-07 23:34:51,742 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:34:51,743 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:34:51,748 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-07 23:34:55,330 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+ERROR 2025-12-07 23:35:21,931 basehttp "POST /accounts/login/ HTTP/1.1" 500 111473
+INFO 2025-12-07 23:35:29,985 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+ERROR 2025-12-07 23:35:50,162 basehttp "GET /accounts/register/ HTTP/1.1" 500 321621
+ERROR 2025-12-07 23:36:10,522 basehttp "GET /accounts/register/ HTTP/1.1" 500 321621
+INFO 2025-12-07 23:38:46,726 autoreload Watching for file changes with StatReloader
+INFO 2025-12-07 23:39:00,778 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-07 23:39:10,982 basehttp - Broken pipe from ('127.0.0.1', 58882)
+ERROR 2025-12-07 23:39:18,233 basehttp "POST /accounts/login/ HTTP/1.1" 500 111473
+INFO 2025-12-07 23:39:23,837 basehttp "GET /accounts/register/ HTTP/1.1" 200 28848
+INFO 2025-12-07 23:39:23,897 basehttp - Broken pipe from ('127.0.0.1', 63388)
+INFO 2025-12-07 23:48:11,866 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+ERROR 2025-12-07 23:48:21,520 basehttp "POST /accounts/login/ HTTP/1.1" 500 111473
+INFO 2025-12-07 23:52:54,931 autoreload D:\ambertek_export\ambertek_export\accounts\models.py changed, reloading.
+INFO 2025-12-07 23:52:56,729 autoreload Watching for file changes with StatReloader
+WARNING 2025-12-07 23:53:29,944 basehttp "POST /accounts/login/ HTTP/1.1" 403 2503
+INFO 2025-12-07 23:56:39,541 basehttp "GET / HTTP/1.1" 200 28199
+INFO 2025-12-07 23:56:40,497 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 200 88013
+INFO 2025-12-07 23:56:40,532 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 200 48839
+INFO 2025-12-07 23:56:40,534 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 200 63542
+INFO 2025-12-07 23:56:40,565 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 200 106589
+INFO 2025-12-07 23:56:40,572 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 200 86999
+INFO 2025-12-07 23:56:40,597 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 200 71329
+INFO 2025-12-07 23:56:40,632 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 200 102006
+INFO 2025-12-07 23:56:40,674 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 200 47291
+INFO 2025-12-07 23:56:40,680 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 200 62828
+INFO 2025-12-07 23:56:40,687 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 200 66951
+WARNING 2025-12-07 23:56:44,498 basehttp "GET /favicon.ico HTTP/1.1" 404 6246
+INFO 2025-12-07 23:56:45,888 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+ERROR 2025-12-07 23:57:14,642 basehttp "POST /accounts/login/ HTTP/1.1" 500 184480
+INFO 2025-12-07 23:57:17,471 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-07 23:57:19,578 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-07 23:57:19,787 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 200 48839
+INFO 2025-12-07 23:57:19,808 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 200 66951
+INFO 2025-12-07 23:57:19,908 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 200 47291
+INFO 2025-12-07 23:57:19,913 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 200 69302
+INFO 2025-12-07 23:57:20,004 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 200 88013
+INFO 2025-12-07 23:57:20,042 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 200 106589
+INFO 2025-12-07 23:57:30,592 basehttp "GET /cart/add/4/ HTTP/1.1" 302 0
+INFO 2025-12-07 23:57:30,972 basehttp "GET /cart/ HTTP/1.1" 200 16163
+INFO 2025-12-07 23:57:35,735 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-07 23:57:36,045 basehttp "GET /checkout/ HTTP/1.1" 200 17344
+INFO 2025-12-07 23:57:40,182 basehttp "GET /cart/ HTTP/1.1" 200 15880
+INFO 2025-12-08 15:35:15,865 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 15:36:24,710 basehttp "GET / HTTP/1.1" 200 28199
+INFO 2025-12-08 15:36:24,774 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:36:24,792 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:36:24,802 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:36:24,819 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:36:24,850 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:36:24,854 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:36:24,867 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:36:24,879 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:36:24,900 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:36:24,903 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+WARNING 2025-12-08 15:36:25,292 basehttp "GET /favicon.ico HTTP/1.1" 404 6246
+INFO 2025-12-08 15:37:07,546 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+ERROR 2025-12-08 15:37:20,781 basehttp "POST /accounts/login/ HTTP/1.1" 500 184467
+INFO 2025-12-08 15:41:48,198 autoreload Watching for file changes with StatReloader
+WARNING 2025-12-08 15:42:01,811 basehttp "POST /accounts/login/ HTTP/1.1" 403 2503
+INFO 2025-12-08 15:46:52,483 autoreload D:\ambertek_export\ambertek_export\accounts\views.py changed, reloading.
+INFO 2025-12-08 15:46:54,536 autoreload Watching for file changes with StatReloader
+WARNING 2025-12-08 15:47:01,950 basehttp "POST /accounts/login/ HTTP/1.1" 403 2503
+INFO 2025-12-08 15:47:04,442 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-08 15:47:09,163 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-08 15:47:09,411 basehttp "GET / HTTP/1.1" 200 29480
+ERROR 2025-12-08 15:47:23,893 basehttp "GET /accounts/profile/ HTTP/1.1" 500 186078
+ERROR 2025-12-08 15:47:37,166 basehttp "GET /accounts/profile/edit/ HTTP/1.1" 500 99985
+ERROR 2025-12-08 15:47:48,744 basehttp "GET /accounts/profile/change-password/ HTTP/1.1" 500 99818
+INFO 2025-12-08 15:47:55,563 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-08 15:47:55,734 basehttp "GET / HTTP/1.1" 200 28507
+INFO 2025-12-08 15:47:59,522 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-08 15:48:04,003 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-08 15:48:04,257 basehttp "GET / HTTP/1.1" 200 29480
+INFO 2025-12-08 15:48:18,766 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-08 15:48:18,981 basehttp "GET / HTTP/1.1" 200 28507
+INFO 2025-12-08 15:48:23,938 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-08 15:48:24,028 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:48:24,040 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:48:24,056 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:48:24,065 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:48:24,100 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:48:24,102 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 15:48:28,291 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-08 15:48:28,553 basehttp "GET /cart/ HTTP/1.1" 200 16183
+INFO 2025-12-08 15:48:31,134 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-08 15:48:31,373 basehttp "GET /checkout/ HTTP/1.1" 200 17356
+INFO 2025-12-08 15:48:47,714 basehttp "GET /accounts/register/ HTTP/1.1" 200 28939
+INFO 2025-12-08 15:50:29,146 basehttp "POST /accounts/register/ HTTP/1.1" 200 28988
+INFO 2025-12-08 15:50:40,623 basehttp - Broken pipe from ('127.0.0.1', 59641)
+INFO 2025-12-08 15:50:40,655 basehttp "GET /cart/ HTTP/1.1" 200 15890
+INFO 2025-12-08 15:50:43,354 basehttp "GET /accounts/register/ HTTP/1.1" 200 28939
+INFO 2025-12-08 15:50:46,674 basehttp "GET /accounts/login/ HTTP/1.1" 200 19290
+INFO 2025-12-08 15:51:13,966 basehttp "POST /accounts/login/ HTTP/1.1" 200 20070
+INFO 2025-12-08 15:51:21,819 basehttp "GET /accounts/register/ HTTP/1.1" 200 28939
+INFO 2025-12-08 15:51:31,920 basehttp "GET /cart/ HTTP/1.1" 200 15890
+INFO 2025-12-08 15:58:40,622 autoreload D:\ambertek_export\ambertek_export\cart\views.py changed, reloading.
+INFO 2025-12-08 15:58:42,274 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 16:06:42,136 autoreload D:\ambertek_export\ambertek_export\ambertek\settings.py changed, reloading.
+INFO 2025-12-08 16:06:45,349 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 16:13:19,827 autoreload D:\ambertek_export\ambertek_export\accounts\views.py changed, reloading.
+INFO 2025-12-08 16:13:21,354 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 16:17:05,026 autoreload D:\ambertek_export\ambertek_export\accounts\views.py changed, reloading.
+INFO 2025-12-08 16:17:06,526 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 16:20:56,115 autoreload D:\ambertek_export\ambertek_export\orders\models.py changed, reloading.
+INFO 2025-12-08 16:20:57,977 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 16:21:59,995 autoreload D:\ambertek_export\ambertek_export\orders\models.py changed, reloading.
+INFO 2025-12-08 16:26:44,192 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 16:29:18,909 autoreload D:\ambertek_export\ambertek_export\orders\admin.py changed, reloading.
+INFO 2025-12-08 16:29:20,459 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 16:29:59,475 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:29:59,644 basehttp "GET / HTTP/1.1" 200 29480
+INFO 2025-12-08 16:30:05,302 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:30:05,444 basehttp "GET / HTTP/1.1" 200 28507
+INFO 2025-12-08 16:30:15,573 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-08 16:30:19,811 basehttp "GET /cart/add/2/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:30:20,011 basehttp "GET /cart/ HTTP/1.1" 200 16221
+INFO 2025-12-08 16:30:34,612 basehttp "POST /cart/update/2/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:30:34,800 basehttp "GET /cart/ HTTP/1.1" 200 15926
+INFO 2025-12-08 16:30:37,410 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:30:37,569 basehttp "GET /checkout/ HTTP/1.1" 200 17362
+INFO 2025-12-08 16:30:45,075 basehttp "POST /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:30:45,263 basehttp "GET /checkout/ HTTP/1.1" 200 18389
+INFO 2025-12-08 16:31:14,478 basehttp "POST /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:31:14,708 basehttp "GET /checkout/ HTTP/1.1" 200 18389
+INFO 2025-12-08 16:31:55,897 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 16:32:00,470 basehttp "GET /checkout/ HTTP/1.1" 200 17362
+INFO 2025-12-08 16:32:28,547 basehttp "POST /place-order/ HTTP/1.1" 200 16094
+INFO 2025-12-08 16:32:54,620 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-08 16:32:55,795 basehttp "GET /contact/ HTTP/1.1" 200 16734
+INFO 2025-12-08 16:33:07,254 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-08 16:33:11,272 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:33:11,450 basehttp "GET / HTTP/1.1" 200 29480
+INFO 2025-12-08 16:35:35,261 basehttp "GET /language/sw/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:35:35,456 basehttp "GET / HTTP/1.1" 200 29222
+INFO 2025-12-08 16:35:39,064 basehttp "GET /language/en/ HTTP/1.1" 302 0
+INFO 2025-12-08 16:35:39,270 basehttp "GET / HTTP/1.1" 200 29193
+INFO 2025-12-08 21:17:16,485 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 21:17:50,491 basehttp "GET / HTTP/1.1" 200 28199
+INFO 2025-12-08 21:17:50,582 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:17:50,589 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:17:50,597 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:17:50,621 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:17:50,622 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:17:50,639 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:17:50,665 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:17:50,681 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:17:50,700 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:17:50,701 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+WARNING 2025-12-08 21:17:51,431 basehttp "GET /favicon.ico HTTP/1.1" 404 6246
+INFO 2025-12-08 21:20:22,838 basehttp "GET /accounts/register/ HTTP/1.1" 200 28848
+INFO 2025-12-08 21:20:31,621 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-08 21:31:24,451 autoreload Watching for file changes with StatReloader
+INFO 2025-12-08 21:31:37,793 basehttp "GET / HTTP/1.1" 200 28199
+INFO 2025-12-08 21:31:41,857 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-08 21:31:46,325 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-08 21:31:46,609 basehttp "GET / HTTP/1.1" 200 29480
+INFO 2025-12-08 21:32:04,640 basehttp "GET /products/ HTTP/1.1" 200 27647
+INFO 2025-12-08 21:32:05,137 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:32:05,203 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:32:05,209 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:32:05,348 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:32:05,385 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:32:05,415 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-08 21:32:09,930 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-08 21:32:10,203 basehttp "GET /cart/ HTTP/1.1" 200 17177
+INFO 2025-12-08 21:32:21,427 basehttp - Broken pipe from ('127.0.0.1', 52682)
+INFO 2025-12-08 21:32:21,456 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-08 21:32:21,675 basehttp "GET /checkout/ HTTP/1.1" 200 18350
+INFO 2025-12-08 21:32:34,708 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-08 21:32:34,913 basehttp "GET / HTTP/1.1" 200 28507
+INFO 2025-12-08 21:32:46,333 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-08 21:32:51,273 basehttp "GET /cart/add/6/ HTTP/1.1" 302 0
+INFO 2025-12-08 21:32:51,628 basehttp "GET /cart/ HTTP/1.1" 200 16263
+INFO 2025-12-08 21:32:54,819 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-08 21:32:55,023 basehttp "GET /checkout/ HTTP/1.1" 200 17372
+INFO 2025-12-08 21:33:16,012 basehttp "POST /place-order/ HTTP/1.1" 200 16095
+INFO 2025-12-09 09:27:43,499 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 09:28:09,838 basehttp "GET / HTTP/1.1" 200 28199
+INFO 2025-12-09 09:28:10,434 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:28:10,649 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:28:10,800 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:28:10,804 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:28:10,973 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:28:11,060 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:28:11,219 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:28:11,240 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:28:11,287 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:28:11,290 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+WARNING 2025-12-09 09:28:11,636 basehttp "GET /favicon.ico HTTP/1.1" 404 6246
+INFO 2025-12-09 09:29:12,729 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-09 09:29:17,106 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-09 09:29:17,267 basehttp "GET / HTTP/1.1" 200 29480
+INFO 2025-12-09 09:29:29,000 basehttp "GET /products/ HTTP/1.1" 200 27647
+INFO 2025-12-09 09:29:29,433 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:29:29,454 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:29:29,476 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:29:29,479 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:29:29,588 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 09:29:29,722 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+ERROR 2025-12-09 09:29:58,027 basehttp "GET /accounts/profile/ HTTP/1.1" 500 186190
+INFO 2025-12-09 09:34:30,169 autoreload D:\ambertek_export\ambertek_export\orders\models.py changed, reloading.
+INFO 2025-12-09 09:34:31,958 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 09:39:24,294 autoreload D:\ambertek_export\ambertek_export\cart\views.py changed, reloading.
+INFO 2025-12-09 09:39:25,882 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 09:43:19,857 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 09:43:53,289 basehttp "GET / HTTP/1.1" 200 29193
+INFO 2025-12-09 09:43:55,808 basehttp "GET / HTTP/1.1" 200 29193
+INFO 2025-12-09 09:43:56,881 basehttp "GET / HTTP/1.1" 200 29193
+INFO 2025-12-09 09:44:02,638 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-09 09:44:02,892 basehttp "GET / HTTP/1.1" 200 28507
+INFO 2025-12-09 09:44:06,192 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-09 09:44:12,260 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 09:44:12,480 basehttp "GET /accounts/login/?next=/cart/add/1/ HTTP/1.1" 200 19321
+INFO 2025-12-09 09:44:16,792 basehttp "POST /accounts/login/?next=/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 09:44:17,036 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 09:44:17,219 basehttp "GET /products/1/ HTTP/1.1" 200 19422
+INFO 2025-12-09 09:44:29,316 basehttp - Broken pipe from ('127.0.0.1', 54281)
+INFO 2025-12-09 09:44:29,358 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 09:44:29,511 basehttp "GET /products/1/ HTTP/1.1" 200 19193
+INFO 2025-12-09 09:44:40,828 basehttp "POST /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 09:44:41,049 basehttp "GET /products/1/ HTTP/1.1" 200 19193
+INFO 2025-12-09 09:44:51,610 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 09:44:51,810 basehttp "GET /products/1/ HTTP/1.1" 200 19193
+INFO 2025-12-09 09:45:01,019 basehttp "POST /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 09:45:01,216 basehttp "GET /products/1/ HTTP/1.1" 200 19193
+INFO 2025-12-09 09:45:12,150 basehttp "GET / HTTP/1.1" 200 29193
+INFO 2025-12-09 09:52:57,666 autoreload D:\ambertek_export\ambertek_export\cart\views.py changed, reloading.
+INFO 2025-12-09 09:52:59,173 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 09:53:05,562 basehttp "GET / HTTP/1.1" 200 29193
+INFO 2025-12-09 09:53:16,936 basehttp "GET /products/ HTTP/1.1" 200 27647
+INFO 2025-12-09 09:53:21,958 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+ERROR 2025-12-09 09:53:28,075 basehttp "GET /cart/ HTTP/1.1" 500 215953
+INFO 2025-12-09 09:57:19,311 autoreload Watching for file changes with StatReloader
+ERROR 2025-12-09 09:57:31,508 basehttp "GET /cart/ HTTP/1.1" 500 215808
+INFO 2025-12-09 10:01:22,793 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 10:01:34,311 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:01:34,582 basehttp "GET /cart/ HTTP/1.1" 200 17311
+INFO 2025-12-09 10:01:41,345 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:01:41,673 basehttp "GET /checkout/ HTTP/1.1" 200 18352
+INFO 2025-12-09 10:01:59,500 basehttp "POST /place-order/ HTTP/1.1" 200 17088
+INFO 2025-12-09 10:02:06,832 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:02:07,025 basehttp "GET / HTTP/1.1" 200 28507
+INFO 2025-12-09 10:02:14,800 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-09 10:02:46,288 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:02:46,484 basehttp "GET /accounts/login/?next=/cart/add/1/ HTTP/1.1" 200 19321
+INFO 2025-12-09 10:02:51,801 basehttp "POST /accounts/login/?next=/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:02:51,955 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:02:52,094 basehttp "GET /cart/ HTTP/1.1" 200 17536
+INFO 2025-12-09 10:03:06,698 basehttp "GET /products/ HTTP/1.1" 200 27647
+INFO 2025-12-09 10:03:08,054 basehttp "GET /contact/ HTTP/1.1" 200 17728
+INFO 2025-12-09 10:03:19,805 basehttp "GET /products/ HTTP/1.1" 200 27647
+INFO 2025-12-09 10:03:21,412 basehttp "GET /contact/ HTTP/1.1" 200 17728
+INFO 2025-12-09 10:03:23,355 basehttp "GET /products/ HTTP/1.1" 200 27647
+INFO 2025-12-09 10:03:24,937 basehttp "GET / HTTP/1.1" 200 29193
+INFO 2025-12-09 10:03:30,633 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:03:30,796 basehttp "GET / HTTP/1.1" 200 28507
+INFO 2025-12-09 10:03:45,290 basehttp "GET /accounts/register/ HTTP/1.1" 200 28848
+INFO 2025-12-09 10:05:08,644 basehttp "POST /accounts/register/ HTTP/1.1" 200 28900
+INFO 2025-12-09 10:05:24,143 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-09 10:05:57,127 basehttp "POST /accounts/login/ HTTP/1.1" 200 19979
+INFO 2025-12-09 10:06:18,096 basehttp - Broken pipe from ('127.0.0.1', 58692)
+INFO 2025-12-09 10:06:18,127 basehttp - Broken pipe from ('127.0.0.1', 50652)
+INFO 2025-12-09 10:06:19,422 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:06:19,618 basehttp "GET / HTTP/1.1" 200 29480
+INFO 2025-12-09 10:13:22,638 autoreload D:\ambertek_export\ambertek_export\accounts\models.py changed, reloading.
+INFO 2025-12-09 10:13:24,300 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 10:18:10,262 autoreload D:\ambertek_export\ambertek_export\accounts\views.py changed, reloading.
+INFO 2025-12-09 10:18:11,831 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 10:18:38,127 basehttp "GET / HTTP/1.1" 200 29193
+INFO 2025-12-09 10:18:43,391 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:18:43,579 basehttp "GET / HTTP/1.1" 200 28507
+INFO 2025-12-09 10:18:46,509 basehttp "GET /accounts/register/ HTTP/1.1" 200 28848
+INFO 2025-12-09 10:23:31,019 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 10:23:36,465 basehttp "GET /accounts/register/ HTTP/1.1" 200 28848
+INFO 2025-12-09 10:25:59,577 basehttp "POST /accounts/register/ HTTP/1.1" 200 28901
+INFO 2025-12-09 10:26:08,775 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-09 10:26:31,368 basehttp "POST /accounts/login/ HTTP/1.1" 200 19979
+INFO 2025-12-09 10:26:40,931 basehttp "GET /accounts/register/ HTTP/1.1" 200 28848
+INFO 2025-12-09 10:37:05,985 autoreload D:\ambertek_export\ambertek_export\accounts\views.py changed, reloading.
+INFO 2025-12-09 10:37:07,500 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 10:44:20,232 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 10:44:27,393 basehttp "GET /accounts/register/ HTTP/1.1" 200 17425
+INFO 2025-12-09 10:44:36,785 basehttp "GET /accounts/register/ HTTP/1.1" 200 17425
+INFO 2025-12-09 10:44:38,733 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-09 10:44:42,670 basehttp "GET /accounts/register/ HTTP/1.1" 200 17425
+INFO 2025-12-09 10:45:38,303 basehttp "POST /accounts/register/ HTTP/1.1" 200 18197
+INFO 2025-12-09 10:46:48,759 basehttp "POST /accounts/register/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:46:48,920 basehttp "GET / HTTP/1.1" 200 29515
+INFO 2025-12-09 10:47:02,945 basehttp "GET /accounts/profile/edit/ HTTP/1.1" 200 16919
+WARNING 2025-12-09 10:47:03,301 basehttp "GET /media/profile_pics/default.png HTTP/1.1" 404 6360
+INFO 2025-12-09 10:47:12,924 basehttp "GET /accounts/profile/edit/ HTTP/1.1" 200 16919
+WARNING 2025-12-09 10:47:13,144 basehttp "GET /media/profile_pics/default.png HTTP/1.1" 404 6360
+ERROR 2025-12-09 10:47:19,858 basehttp "GET /accounts/profile/ HTTP/1.1" 500 170514
+ERROR 2025-12-09 10:47:42,699 basehttp "GET /accounts/profile/change-password/ HTTP/1.1" 500 99810
+INFO 2025-12-09 10:47:56,841 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:47:56,968 basehttp "GET / HTTP/1.1" 200 28505
+INFO 2025-12-09 10:48:00,681 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-09 10:48:12,777 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-09 10:48:17,433 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:48:17,699 basehttp "GET /accounts/login/?next=/cart/add/1/ HTTP/1.1" 200 19321
+INFO 2025-12-09 10:48:21,393 basehttp "POST /accounts/login/?next=/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:48:21,627 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:48:21,759 basehttp "GET /cart/ HTTP/1.1" 200 17532
+INFO 2025-12-09 10:48:24,939 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:48:25,087 basehttp "GET /checkout/ HTTP/1.1" 200 18348
+INFO 2025-12-09 10:48:39,101 basehttp "POST /place-order/ HTTP/1.1" 200 17085
+INFO 2025-12-09 10:56:50,165 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:56:50,309 basehttp "GET / HTTP/1.1" 200 28505
+INFO 2025-12-09 10:56:52,998 basehttp "GET /accounts/register/ HTTP/1.1" 200 17425
+INFO 2025-12-09 10:56:57,196 basehttp "GET /accounts/register/ HTTP/1.1" 200 17425
+INFO 2025-12-09 10:56:58,109 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-09 10:57:03,438 basehttp "GET /accounts/register/ HTTP/1.1" 200 17425
+INFO 2025-12-09 10:57:04,377 basehttp "GET /accounts/register/ HTTP/1.1" 200 17425
+INFO 2025-12-09 10:57:05,875 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-09 10:57:06,896 basehttp "GET /accounts/register/ HTTP/1.1" 200 17425
+INFO 2025-12-09 10:57:09,210 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-09 10:57:12,812 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-09 10:57:12,992 basehttp "GET / HTTP/1.1" 200 29476
+ERROR 2025-12-09 10:59:47,498 basehttp "GET /accounts/profile/change-password/ HTTP/1.1" 500 99788
+INFO 2025-12-09 11:04:09,722 autoreload Watching for file changes with StatReloader
+ERROR 2025-12-09 11:04:20,585 basehttp "GET /accounts/profile/change-password/ HTTP/1.1" 500 172973
+ERROR 2025-12-09 11:04:29,975 basehttp "GET /accounts/profile/ HTTP/1.1" 500 163476
+INFO 2025-12-09 15:32:30,067 basehttp "GET / HTTP/1.1" 200 29191
+INFO 2025-12-09 15:32:30,890 basehttp "GET /media/homepage/categories/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:31,099 basehttp "GET /media/homepage/categories/abayas.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:31,129 basehttp "GET /media/homepage/categories/car_spares_u85rNfQ.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:31,373 basehttp "GET /media/homepage/categories/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:31,581 basehttp "GET /media/homepage/categories/perfumes__cosmetics.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:31,608 basehttp "GET /media/homepage/categories/phone__Accessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:31,724 basehttp "GET /media/homepage/featured/kanzu_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:31,806 basehttp "GET /media/homepage/featured/phones_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:31,882 basehttp "GET /media/homepage/featured/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:31,892 basehttp "GET /media/homepage/featured/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:32:36,421 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-09 15:32:36,631 basehttp "GET / HTTP/1.1" 200 28505
+INFO 2025-12-09 15:32:39,836 basehttp "GET /accounts/login/ HTTP/1.1" 200 19199
+INFO 2025-12-09 15:32:44,076 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-09 15:32:44,268 basehttp "GET / HTTP/1.1" 200 29476
+INFO 2025-12-09 15:32:51,358 basehttp "GET /accounts/profile/edit/ HTTP/1.1" 200 16919
+WARNING 2025-12-09 15:32:51,768 basehttp "GET /media/profile_pics/default.png HTTP/1.1" 404 6360
+ERROR 2025-12-09 15:33:06,179 basehttp "GET /accounts/profile/ HTTP/1.1" 500 163476
+INFO 2025-12-09 15:37:25,748 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 15:37:41,970 basehttp "GET / HTTP/1.1" 200 29191
+INFO 2025-12-09 15:37:51,295 basehttp "GET /products/ HTTP/1.1" 200 27645
+INFO 2025-12-09 15:37:51,747 basehttp "GET /media/products/dell_7940.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:37:51,779 basehttp "GET /media/products/dell_5290.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:37:51,783 basehttp "GET /media/products/abaya_f.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:37:51,840 basehttp "GET /media/products/kanzu.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:37:52,009 basehttp "GET /media/products/computersaccessories.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:37:52,023 basehttp "GET /media/products/car_spares.jpg HTTP/1.1" 304 0
+INFO 2025-12-09 15:37:56,247 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 15:37:56,572 basehttp "GET /cart/ HTTP/1.1" 200 17305
+INFO 2025-12-09 15:38:00,225 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-09 15:38:00,516 basehttp "GET /checkout/ HTTP/1.1" 200 18348
+INFO 2025-12-09 15:38:06,797 basehttp "GET /accounts/profile/edit/ HTTP/1.1" 200 17010
+WARNING 2025-12-09 15:38:07,106 basehttp "GET /media/profile_pics/default.png HTTP/1.1" 404 6360
+ERROR 2025-12-09 15:38:15,643 basehttp "GET /accounts/profile/ HTTP/1.1" 500 163498
+INFO 2025-12-09 15:38:35,305 basehttp - Broken pipe from ('127.0.0.1', 58688)
+ERROR 2025-12-09 15:38:45,032 basehttp "GET /accounts/profile/ HTTP/1.1" 500 163481
+INFO 2025-12-09 15:42:07,206 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 15:42:15,288 basehttp "GET /accounts/profile/ HTTP/1.1" 200 11196
+INFO 2025-12-09 15:42:23,888 basehttp "GET /accounts/profile/edit/ HTTP/1.1" 200 17010
+WARNING 2025-12-09 15:42:24,127 basehttp "GET /media/profile_pics/default.png HTTP/1.1" 404 6360
+ERROR 2025-12-09 15:42:40,244 basehttp "GET /accounts/profile/change-password/ HTTP/1.1" 500 172858
+INFO 2025-12-09 15:42:47,587 basehttp "GET /accounts/profile/ HTTP/1.1" 200 11196
+INFO 2025-12-09 15:42:59,496 basehttp - Broken pipe from ('127.0.0.1', 59729)
+INFO 2025-12-09 15:43:11,684 basehttp - Broken pipe from ('127.0.0.1', 58885)
+ERROR 2025-12-09 15:43:19,774 basehttp "GET /accounts/profile/change-password/ HTTP/1.1" 500 172853
+INFO 2025-12-09 15:44:36,445 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 15:44:40,034 basehttp "GET /accounts/profile/change-password/ HTTP/1.1" 200 12336
+INFO 2025-12-09 15:45:24,811 basehttp "POST /accounts/profile/change-password/ HTTP/1.1" 302 0
+INFO 2025-12-09 15:45:25,000 basehttp "GET /accounts/profile/ HTTP/1.1" 200 11504
+INFO 2025-12-09 15:45:36,884 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-09 15:45:37,199 basehttp "GET / HTTP/1.1" 200 28505
+INFO 2025-12-09 15:45:51,579 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-09 15:45:53,646 basehttp "GET /products/category/2/ HTTP/1.1" 200 20335
+INFO 2025-12-09 15:45:54,896 basehttp "GET /products/category/5/ HTTP/1.1" 200 16101
+INFO 2025-12-09 15:45:55,908 basehttp "GET /products/category/6/ HTTP/1.1" 200 16100
+INFO 2025-12-09 15:45:56,823 basehttp "GET /products/category/7/ HTTP/1.1" 200 16201
+INFO 2025-12-09 15:45:57,494 basehttp "GET /products/category/8/ HTTP/1.1" 200 14584
+INFO 2025-12-09 15:45:58,640 basehttp "GET /products/category/9/ HTTP/1.1" 200 14597
+INFO 2025-12-09 15:46:06,034 basehttp "GET /products/category/8/ HTTP/1.1" 200 14584
+INFO 2025-12-09 15:46:07,121 basehttp "GET /products/category/7/ HTTP/1.1" 200 16201
+INFO 2025-12-09 15:46:07,877 basehttp "GET /products/category/6/ HTTP/1.1" 200 16100
+INFO 2025-12-09 15:46:08,647 basehttp - Broken pipe from ('127.0.0.1', 55489)
+INFO 2025-12-09 15:46:08,669 basehttp - Broken pipe from ('127.0.0.1', 59734)
+INFO 2025-12-09 15:46:08,692 basehttp "GET /products/category/5/ HTTP/1.1" 200 16101
+INFO 2025-12-09 15:46:09,380 basehttp "GET /products/category/2/ HTTP/1.1" 200 20335
+INFO 2025-12-09 15:46:10,092 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-09 15:46:11,912 basehttp "GET /products/ HTTP/1.1" 200 26653
+INFO 2025-12-09 15:46:36,146 basehttp "GET / HTTP/1.1" 200 28199
+INFO 2025-12-09 15:57:10,864 autoreload Watching for file changes with StatReloader
+ERROR 2025-12-09 15:57:37,680 basehttp "GET / HTTP/1.1" 500 207540
+INFO 2025-12-09 16:00:52,415 autoreload Watching for file changes with StatReloader
+ERROR 2025-12-09 16:01:10,979 basehttp "GET / HTTP/1.1" 500 207540
+INFO 2025-12-09 16:05:01,851 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:05:18,630 basehttp "GET / HTTP/1.1" 200 29051
+INFO 2025-12-09 16:05:18,837 basehttp "GET /static/images/Ambertek_logo.jpg HTTP/1.1" 200 15007
+INFO 2025-12-09 16:10:09,583 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:10:18,288 basehttp "GET / HTTP/1.1" 200 29056
+INFO 2025-12-09 16:10:18,590 basehttp "GET /static/images/Ambertek_logo.jpg HTTP/1.1" 200 16017
+INFO 2025-12-09 16:10:26,714 basehttp "GET / HTTP/1.1" 200 29056
+INFO 2025-12-09 16:17:22,145 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:17:29,334 basehttp "GET / HTTP/1.1" 200 34304
+INFO 2025-12-09 16:18:04,164 basehttp "GET /language/sw/ HTTP/1.1" 302 0
+INFO 2025-12-09 16:18:04,333 basehttp "GET / HTTP/1.1" 200 34289
+INFO 2025-12-09 16:18:44,017 basehttp "GET /products/ HTTP/1.1" 200 32761
+INFO 2025-12-09 16:18:50,149 basehttp "GET /contact/ HTTP/1.1" 200 22785
+INFO 2025-12-09 16:18:52,834 basehttp "GET /products/ HTTP/1.1" 200 32761
+INFO 2025-12-09 16:18:56,356 basehttp "GET /language/en/ HTTP/1.1" 302 0
+INFO 2025-12-09 16:18:56,536 basehttp "GET /products/ HTTP/1.1" 200 32758
+INFO 2025-12-09 16:18:59,768 basehttp - Broken pipe from ('127.0.0.1', 53449)
+INFO 2025-12-09 16:18:59,804 basehttp "GET /products/ HTTP/1.1" 200 32758
+INFO 2025-12-09 16:20:48,364 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:20:53,669 basehttp "GET /products/ HTTP/1.1" 200 32758
+INFO 2025-12-09 16:21:01,983 basehttp "GET /products/ HTTP/1.1" 200 32758
+INFO 2025-12-09 16:21:03,267 basehttp "GET /products/ HTTP/1.1" 200 32758
+INFO 2025-12-09 16:21:04,264 basehttp "GET /products/ HTTP/1.1" 200 32758
+INFO 2025-12-09 16:21:05,331 basehttp "GET /products/ HTTP/1.1" 200 32758
+INFO 2025-12-09 16:28:19,790 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:28:27,351 basehttp "GET /products/ HTTP/1.1" 200 34282
+INFO 2025-12-09 16:28:57,893 basehttp "GET / HTTP/1.1" 200 35828
+INFO 2025-12-09 16:29:26,973 basehttp "GET /products/ HTTP/1.1" 200 34282
+INFO 2025-12-09 16:35:20,517 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:35:29,331 basehttp "GET /products/ HTTP/1.1" 200 34130
+INFO 2025-12-09 16:35:33,000 basehttp - Broken pipe from ('127.0.0.1', 59543)
+INFO 2025-12-09 16:35:33,047 basehttp "GET /products/ HTTP/1.1" 200 34130
+INFO 2025-12-09 16:36:24,419 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:36:33,784 basehttp "GET /products/ HTTP/1.1" 200 33772
+INFO 2025-12-09 16:39:04,087 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:39:12,753 basehttp "GET /products/ HTTP/1.1" 200 33883
+INFO 2025-12-09 16:40:37,633 basehttp "GET /products/ HTTP/1.1" 200 33883
+INFO 2025-12-09 16:40:41,120 basehttp "GET /products/ HTTP/1.1" 200 33883
+INFO 2025-12-09 16:41:05,165 basehttp "GET / HTTP/1.1" 200 35828
+INFO 2025-12-09 16:41:38,969 basehttp "GET /accounts/login/ HTTP/1.1" 200 26828
+INFO 2025-12-09 16:41:51,061 basehttp "POST /accounts/login/ HTTP/1.1" 200 27667
+INFO 2025-12-09 16:42:16,041 basehttp "GET /accounts/register/ HTTP/1.1" 200 25054
+INFO 2025-12-09 16:44:36,040 basehttp "POST /accounts/register/ HTTP/1.1" 302 0
+INFO 2025-12-09 16:44:36,289 basehttp "GET / HTTP/1.1" 200 37581
+INFO 2025-12-09 16:44:47,614 basehttp "GET /products/ HTTP/1.1" 200 35258
+INFO 2025-12-09 16:44:51,159 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 16:44:51,346 basehttp "GET /cart/ HTTP/1.1" 200 25483
+INFO 2025-12-09 16:45:01,854 basehttp "GET /products/1/ HTTP/1.1" 200 26901
+INFO 2025-12-09 16:45:05,412 basehttp "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-09 16:45:05,602 basehttp "GET /cart/ HTTP/1.1" 200 25485
+INFO 2025-12-09 16:45:09,311 basehttp "GET /place-order/ HTTP/1.1" 302 0
+INFO 2025-12-09 16:45:09,510 basehttp "GET /checkout/ HTTP/1.1" 200 26473
+INFO 2025-12-09 16:45:32,201 basehttp "POST /place-order/ HTTP/1.1" 200 25150
+INFO 2025-12-09 16:45:56,315 basehttp "GET /products/ HTTP/1.1" 200 35258
+INFO 2025-12-09 16:47:24,563 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:48:11,059 basehttp "GET / HTTP/1.1" 200 37203
+INFO 2025-12-09 16:48:18,535 basehttp "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-12-09 16:48:18,686 basehttp "GET / HTTP/1.1" 200 36188
+INFO 2025-12-09 16:48:25,372 basehttp "GET /products/ HTTP/1.1" 200 33614
+INFO 2025-12-09 16:48:58,035 basehttp "GET /products/ HTTP/1.1" 200 33614
+INFO 2025-12-09 16:48:59,963 basehttp "GET /contact/ HTTP/1.1" 200 24363
+INFO 2025-12-09 16:49:41,547 basehttp "GET /products/ HTTP/1.1" 200 33614
+INFO 2025-12-09 16:49:52,057 basehttp "GET / HTTP/1.1" 200 35828
+INFO 2025-12-09 16:51:56,660 basehttp "GET / HTTP/1.1" 200 35828
+INFO 2025-12-09 16:52:36,028 basehttp "GET /products/ HTTP/1.1" 200 33614
+INFO 2025-12-09 16:52:44,214 basehttp "GET /contact/ HTTP/1.1" 200 24363
+INFO 2025-12-09 16:52:56,631 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-12-09 16:52:57,071 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4170
+INFO 2025-12-09 16:52:57,132 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-12-09 16:52:57,133 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-12-09 16:52:57,142 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-12-09 16:52:57,147 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-12-09 16:52:57,154 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-12-09 16:52:57,164 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-12-09 16:52:57,169 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-12-09 16:53:04,495 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4340
+INFO 2025-12-09 16:58:57,567 autoreload Watching for file changes with StatReloader
+INFO 2025-12-09 16:59:38,324 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-12-09 16:59:39,124 basehttp "GET /admin/ HTTP/1.1" 200 12383
+INFO 2025-12-09 16:59:39,204 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-12-09 16:59:39,222 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-12-09 16:59:39,227 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:14,981 basehttp - Broken pipe from ('127.0.0.1', 65073)
+INFO 2025-12-09 17:00:14,984 basehttp "GET /admin/orders/order/add/ HTTP/1.1" 200 29430
+INFO 2025-12-09 17:00:15,069 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,083 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,084 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,100 basehttp "GET /static/admin/js/inlines.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,100 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,101 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,134 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,149 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,152 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,165 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,183 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,184 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,489 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-09 17:00:15,617 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2025-12-09 17:00:15,626 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:15,679 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-12-09 17:00:15,832 basehttp "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-12-09 17:00:15,832 basehttp "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2025-12-09 17:00:19,147 basehttp "GET /admin/orders/order/ HTTP/1.1" 200 32437
+INFO 2025-12-09 17:00:19,207 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:19,213 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:19,224 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:19,361 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-09 17:00:19,417 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:19,424 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-12-09 17:00:19,433 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-12-09 17:01:41,975 basehttp "POST /admin/orders/order/ HTTP/1.1" 302 0
+INFO 2025-12-09 17:01:42,213 basehttp "GET /admin/orders/order/ HTTP/1.1" 200 32573
+INFO 2025-12-09 17:01:42,402 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-09 17:01:42,452 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-12-09 17:02:20,983 basehttp "GET /admin/ HTTP/1.1" 200 12383
+INFO 2025-12-09 17:02:23,330 basehttp "GET / HTTP/1.1" 200 37202
+INFO 2025-12-09 17:02:26,840 basehttp "GET /products/ HTTP/1.1" 200 34988
+INFO 2025-12-09 17:02:38,252 basehttp "GET /accounts/profile/ HTTP/1.1" 200 19116
+INFO 2026-01-30 19:21:51,691 autoreload Watching for file changes with StatReloader
+INFO 2026-01-30 19:25:24,256 autoreload Watching for file changes with StatReloader
+INFO 2026-01-30 19:28:49,361 autoreload Watching for file changes with StatReloader
+INFO 2026-01-30 19:38:24,625 autoreload Watching for file changes with StatReloader
+INFO 2026-01-30 19:38:38,205 log "GET / HTTP/1.1" 200 34938
+WARNING 2026-01-30 19:38:41,809 log "GET /favicon.ico HTTP/1.1" 404 6246
+INFO 2026-01-30 19:38:53,013 basehttp - Broken pipe from ('127.0.0.1', 55977)
+INFO 2026-01-30 19:38:53,015 basehttp - Broken pipe from ('127.0.0.1', 50663)
+INFO 2026-01-30 19:38:53,017 log "GET /accounts/login/ HTTP/1.1" 200 26828
+INFO 2026-01-30 19:39:01,473 log "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:39:01,717 log "GET / HTTP/1.1" 200 36650
+INFO 2026-01-30 19:39:13,482 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 19:39:13,759 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:39:21,547 log "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:39:21,857 log "GET /cart/ HTTP/1.1" 200 25490
+WARNING 2026-01-30 19:39:22,177 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:39:30,581 log "GET /place-order/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:39:30,855 log "GET /checkout/ HTTP/1.1" 200 26472
+INFO 2026-01-30 19:40:02,674 log "POST /place-order/ HTTP/1.1" 200 25148
+INFO 2026-01-30 19:40:40,953 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 19:40:41,211 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:40:42,443 log "GET /contact/ HTTP/1.1" 200 25737
+INFO 2026-01-30 19:47:39,275 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 19:47:39,571 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:47:42,287 basehttp - Broken pipe from ('127.0.0.1', 52985)
+INFO 2026-01-30 19:47:42,321 log "GET /contact/ HTTP/1.1" 200 25737
+INFO 2026-01-30 19:47:47,170 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 19:47:47,438 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:50:58,480 autoreload Watching for file changes with StatReloader
+INFO 2026-01-30 19:51:04,041 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 19:51:04,388 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:51:06,471 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 19:51:06,727 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:51:09,507 log "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:51:09,668 log "GET /cart/ HTTP/1.1" 200 25490
+WARNING 2026-01-30 19:51:09,941 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:51:32,365 log "GET /cart/ HTTP/1.1" 200 25129
+WARNING 2026-01-30 19:51:32,621 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:51:37,116 basehttp - Broken pipe from ('127.0.0.1', 60681)
+INFO 2026-01-30 19:51:37,147 log "GET /place-order/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:51:37,347 log "GET /checkout/ HTTP/1.1" 200 26472
+INFO 2026-01-30 19:54:40,113 log "GET / HTTP/1.1" 200 36312
+INFO 2026-01-30 19:55:33,577 log "GET /accounts/profile/ HTTP/1.1" 200 19319
+INFO 2026-01-30 19:55:40,736 log "GET /accounts/profile/edit/ HTTP/1.1" 200 25133
+WARNING 2026-01-30 19:55:40,998 log "GET /media/profile_pics/default.png HTTP/1.1" 404 6360
+INFO 2026-01-30 19:56:15,198 log "POST /accounts/profile/edit/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:56:15,347 log "GET /accounts/profile/ HTTP/1.1" 200 19679
+INFO 2026-01-30 19:56:28,878 log "GET /accounts/profile/change-password/ HTTP/1.1" 200 20460
+INFO 2026-01-30 19:56:37,118 log "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:56:37,245 log "GET / HTTP/1.1" 200 35297
+INFO 2026-01-30 19:56:41,648 log "GET /accounts/login/ HTTP/1.1" 200 26828
+INFO 2026-01-30 19:56:45,212 log "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:56:45,342 log "GET / HTTP/1.1" 200 36650
+INFO 2026-01-30 19:57:04,473 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 19:57:04,730 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:57:08,282 log "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:57:08,420 log "GET /cart/ HTTP/1.1" 200 25490
+WARNING 2026-01-30 19:57:08,639 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 19:57:13,121 log "GET /place-order/ HTTP/1.1" 302 0
+INFO 2026-01-30 19:57:13,234 log "GET /checkout/ HTTP/1.1" 200 26472
+INFO 2026-01-30 19:57:45,896 log "POST /place-order/ HTTP/1.1" 200 25149
+INFO 2026-01-30 21:25:45,271 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 21:25:45,607 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:10:00,436 log "GET / HTTP/1.1" 200 34938
+WARNING 2026-01-30 22:10:03,846 log "GET /favicon.ico HTTP/1.1" 404 6246
+INFO 2026-01-30 22:10:53,916 log "GET /accounts/login/ HTTP/1.1" 200 26828
+INFO 2026-01-30 22:10:58,308 log "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-30 22:10:58,478 log "GET / HTTP/1.1" 200 36650
+INFO 2026-01-30 22:11:14,321 basehttp - Broken pipe from ('127.0.0.1', 54667)
+INFO 2026-01-30 22:11:14,324 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 22:11:14,554 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:11:19,263 log "GET /products/category/1/ HTTP/1.1" 200 23033
+INFO 2026-01-30 22:11:19,265 basehttp - Broken pipe from ('127.0.0.1', 60571)
+WARNING 2026-01-30 22:11:19,502 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:11:27,513 log "GET /products/1/ HTTP/1.1" 200 26911
+INFO 2026-01-30 22:11:27,515 basehttp - Broken pipe from ('127.0.0.1', 61512)
+WARNING 2026-01-30 22:11:27,755 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:11:36,332 basehttp - Broken pipe from ('127.0.0.1', 50540)
+INFO 2026-01-30 22:11:36,452 log "POST /cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-30 22:11:36,813 log "GET /cart/ HTTP/1.1" 200 25492
+WARNING 2026-01-30 22:11:37,042 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:18:41,339 autoreload Watching for file changes with StatReloader
+INFO 2026-01-30 22:18:48,753 log "GET /cart/ HTTP/1.1" 200 25129
+WARNING 2026-01-30 22:18:49,054 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:18:50,682 log "GET /cart/ HTTP/1.1" 200 25129
+WARNING 2026-01-30 22:18:50,937 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:18:52,014 log "GET /cart/ HTTP/1.1" 200 25129
+WARNING 2026-01-30 22:18:52,217 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:18:54,238 log "GET /cart/ HTTP/1.1" 200 25129
+WARNING 2026-01-30 22:18:54,540 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:19:11,778 basehttp - Broken pipe from ('127.0.0.1', 64901)
+INFO 2026-01-30 22:19:11,798 log "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-30 22:19:11,964 log "GET /cart/ HTTP/1.1" 200 25494
+WARNING 2026-01-30 22:19:12,228 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:19:59,059 log "GET /contact/ HTTP/1.1" 200 25737
+INFO 2026-01-30 22:20:51,297 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 22:20:51,562 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:28:09,977 autoreload Watching for file changes with StatReloader
+INFO 2026-01-30 22:28:23,307 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 22:28:23,593 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:28:29,219 log "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-30 22:28:29,569 log "GET /cart/ HTTP/1.1" 200 25494
+WARNING 2026-01-30 22:28:29,873 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:28:32,115 basehttp - Broken pipe from ('127.0.0.1', 64970)
+INFO 2026-01-30 22:28:32,179 log "GET /place-order/ HTTP/1.1" 302 0
+INFO 2026-01-30 22:28:32,387 log "GET /checkout/ HTTP/1.1" 200 26474
+INFO 2026-01-30 22:29:07,784 log "POST /place-order/ HTTP/1.1" 200 25150
+INFO 2026-01-30 22:34:01,700 log "POST /place-order/ HTTP/1.1" 302 0
+INFO 2026-01-30 22:34:01,890 log "GET /cart/ HTTP/1.1" 200 20223
+INFO 2026-01-30 22:34:05,527 log "GET /products/ HTTP/1.1" 200 23033
+WARNING 2026-01-30 22:34:05,822 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:34:09,125 log "GET /cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-30 22:34:09,298 log "GET /cart/ HTTP/1.1" 200 25490
+WARNING 2026-01-30 22:34:09,730 log "GET /media/products/dell_7940_CbOXkIr.jpg HTTP/1.1" 404 6384
+INFO 2026-01-30 22:34:11,088 log "GET /place-order/ HTTP/1.1" 302 0
+INFO 2026-01-30 22:34:11,528 log "GET /checkout/ HTTP/1.1" 200 26472
+INFO 2026-01-30 22:34:37,547 log "POST /place-order/ HTTP/1.1" 200 25121
